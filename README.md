@@ -14,7 +14,8 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:elias-soykat/next-project-assessment.git
+
 cd next-project-assessment
 ```
 
@@ -83,4 +84,3 @@ Then start the production server:
 ```bash
 npm run start
 ```
-
