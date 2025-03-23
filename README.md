@@ -2,8 +2,7 @@
 
 This is a Next.js (app router) project built with TypeScript, Tailwind CSS, ShadCN and other modern web technologies.
 
-### Requirements Docs  
-[View Requirements Document](https://docs.google.com/document/d/1MubBFTzeHzUqOYXrIn1oIMyVbcLJ8WQJfa34W_GHH-8)
+### Requirements Docs : [View Requirements Document](https://docs.google.com/document/d/1MubBFTzeHzUqOYXrIn1oIMyVbcLJ8WQJfa34W_GHH-8)
 
 ## Prerequisites
 
